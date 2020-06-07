@@ -5,9 +5,14 @@
 
 ## Contents
 
-- [Seed](#seed)
-- [Growth Stage](#growth-stage)
+### By Stage
 
+- [Seed](#seed)
+- [Growth](#growth-stage)
+
+### By Location
+
+- [Europe](#europe)
 
 ## Seed
 
@@ -15,6 +20,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [Bain Capital Ventures](https://www.baincapitalventures.com/)
 - [Andreessen Horowitz](https://a16z.com/)
+- [Canaan Partners](https://www.canaan.com/)
 
 
 ## Growth Stage
@@ -24,6 +30,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+## Europe
+
+- [Augmentum Fintech](https://augmentum.vc/)
+- [Earlybird Venture Capital](https://earlybird.com/)
 
 ## Contribute
 
